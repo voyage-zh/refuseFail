@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1312542b-c033-4ae8-a34e-844887505a20",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "stage23_door": {
+      "ver": "1.0.4",
+      "uuid": "e0e1aab2-d238-4ef4-bfb3-919b99b5e7e5",
+      "rawTextureUuid": "1312542b-c033-4ae8-a34e-844887505a20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 257,
+      "height": 415,
+      "rawWidth": 258,
+      "rawHeight": 415,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

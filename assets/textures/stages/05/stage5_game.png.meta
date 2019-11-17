@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c89bbbc2-2feb-4268-9404-60de917dc515",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "stage5_game": {
+      "ver": "1.0.4",
+      "uuid": "6bd9295f-8cf1-4513-81da-87e57b2d4efd",
+      "rawTextureUuid": "c89bbbc2-2feb-4268-9404-60de917dc515",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 90,
+      "height": 130,
+      "rawWidth": 93,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

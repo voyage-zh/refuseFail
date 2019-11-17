@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4716ffcd-b85f-4051-b09b-5d687c3a21e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "stage18_gameBox": {
+      "ver": "1.0.4",
+      "uuid": "1173e37f-a19a-41e4-8890-3b59d42c9905",
+      "rawTextureUuid": "4716ffcd-b85f-4051-b09b-5d687c3a21e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 394,
+      "height": 432,
+      "rawWidth": 394,
+      "rawHeight": 432,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
